@@ -551,9 +551,17 @@
     font-weight: 100;
     width: max(300px, 100%);
     max-width: 500px;
+    height: 50px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
     outline: none;
 }
 .footer button {
+    height: 50px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
     padding: 10px 20px;
     font-size: 14px;
     cursor: pointer;
